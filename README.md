@@ -10,3 +10,6 @@ This task reads log files and outputs the following information:
 
 # Running the program
 - Run "npm run program" in the terminal
+
+# Running the Unit Tests
+- To run the tests, run "npm test" in the terminal
